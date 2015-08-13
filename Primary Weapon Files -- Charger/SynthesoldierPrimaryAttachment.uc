@@ -1,0 +1,1 @@
+class SynthesoldierPrimaryAttachment extends HuskGunAttachment;
